@@ -1,0 +1,15 @@
+/Users/renat_s/Desktop/GB_Education/01_quarter/03_C#/HomeWork_001/Task_008/bin/Debug/net7.0/Task_008
+/Users/renat_s/Desktop/GB_Education/01_quarter/03_C#/HomeWork_001/Task_008/bin/Debug/net7.0/Task_008.deps.json
+/Users/renat_s/Desktop/GB_Education/01_quarter/03_C#/HomeWork_001/Task_008/bin/Debug/net7.0/Task_008.runtimeconfig.json
+/Users/renat_s/Desktop/GB_Education/01_quarter/03_C#/HomeWork_001/Task_008/bin/Debug/net7.0/Task_008.dll
+/Users/renat_s/Desktop/GB_Education/01_quarter/03_C#/HomeWork_001/Task_008/bin/Debug/net7.0/Task_008.pdb
+/Users/renat_s/Desktop/GB_Education/01_quarter/03_C#/HomeWork_001/Task_008/obj/Debug/net7.0/Task_008.csproj.AssemblyReference.cache
+/Users/renat_s/Desktop/GB_Education/01_quarter/03_C#/HomeWork_001/Task_008/obj/Debug/net7.0/Task_008.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renat_s/Desktop/GB_Education/01_quarter/03_C#/HomeWork_001/Task_008/obj/Debug/net7.0/Task_008.AssemblyInfoInputs.cache
+/Users/renat_s/Desktop/GB_Education/01_quarter/03_C#/HomeWork_001/Task_008/obj/Debug/net7.0/Task_008.AssemblyInfo.cs
+/Users/renat_s/Desktop/GB_Education/01_quarter/03_C#/HomeWork_001/Task_008/obj/Debug/net7.0/Task_008.csproj.CoreCompileInputs.cache
+/Users/renat_s/Desktop/GB_Education/01_quarter/03_C#/HomeWork_001/Task_008/obj/Debug/net7.0/Task_008.dll
+/Users/renat_s/Desktop/GB_Education/01_quarter/03_C#/HomeWork_001/Task_008/obj/Debug/net7.0/refint/Task_008.dll
+/Users/renat_s/Desktop/GB_Education/01_quarter/03_C#/HomeWork_001/Task_008/obj/Debug/net7.0/Task_008.pdb
+/Users/renat_s/Desktop/GB_Education/01_quarter/03_C#/HomeWork_001/Task_008/obj/Debug/net7.0/Task_008.genruntimeconfig.cache
+/Users/renat_s/Desktop/GB_Education/01_quarter/03_C#/HomeWork_001/Task_008/obj/Debug/net7.0/ref/Task_008.dll
